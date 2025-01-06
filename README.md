@@ -20,6 +20,7 @@ The Heatwave Alert app provides heatwave warnings and updates to users. The proj
 - `frontend/` - Flutter app for displaying alerts
 - `README.md` - Project documentation
 
+
 ## License
 This project is is an open-sourced software licensed under the [MIT license](https://github.com/mubarak-mohamed/heatwave-alert/blob/main/LICENSE.txt).
 
